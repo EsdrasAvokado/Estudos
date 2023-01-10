@@ -12,8 +12,8 @@ console.log(NumeroQuebrado.toString(2)); // toString = codigo binario
 console.log(typeof NumeroQuebrado);
 console.log(typeof Number);
 
-console.log("");
-console.log("");
+console.log(" ");
+console.log(" ");
 
 
 console.log(0.7 + 0.1);

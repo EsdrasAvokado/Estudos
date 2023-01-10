@@ -6,6 +6,8 @@ const template =  `
 
 console.log(concatenacao, template);
 
+console.log('')
+
 console.log(`1 + 1 = ${1 + 1}`)
 
 const up = texto => texto.toUpperCase();

@@ -8,7 +8,7 @@ console.log(valores.length); //
 
 valores.push({id: 3}, false, null, 'teste');
 console.log(valores);
-
+console.log("")
 console.log(valores.pop());
 delete valores[0];
 console.log(valores);

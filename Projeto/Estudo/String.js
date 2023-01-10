@@ -15,6 +15,6 @@ console.log('Escola ' + escola + "!"); //
 
 console.log(escola.replace(3, 'e'));// 
 
-console.log('Ana,Maria,Pedro'.split(',')); // cria um array usando um separador em um separador
+console.log('Ana,Maria,Pedro'.split(',')); //cria um array usando um separador em um separador
 
 
