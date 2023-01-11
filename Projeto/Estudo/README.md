@@ -1,1 +1,1 @@
-//Area que upo meus estudos
+//Meus estudos sobre Java Script
