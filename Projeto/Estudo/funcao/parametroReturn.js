@@ -6,3 +6,8 @@ function area(largura, altura){
         return area 
     }
 }
+
+console.log(area(2, 2))
+console.log(area(2))
+//Parâmetro e retorno são opcionais
+//teste de flexibilidade da linguagem
