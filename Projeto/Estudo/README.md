@@ -11,7 +11,7 @@ Experimental const
 Declara uma constante de escopo de bloco, apenas de leitura.
 
 
-{
+Tabela Verdade: {
  V e V -> v          
  V e F -> F            
  F e ? -> ?
@@ -31,3 +31,4 @@ Declara uma constante de escopo de bloco, apenas de leitura.
  || = ou
  && = e
 }
+
