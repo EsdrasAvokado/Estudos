@@ -32,3 +32,6 @@ Tabela Verdade: {
  && = e
 }
 
+nota: 22:55 Sabado, 21 de janeiro de 2023{
+    amanha termino de upar os codigos de solução matematica
+}
