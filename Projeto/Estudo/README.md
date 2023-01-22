@@ -35,3 +35,29 @@ Tabela Verdade: {
 nota: 22:55 Sabado, 21 de janeiro de 2023{
     amanha termino de upar os codigos de solução matematica
 }
+
+Estrutura IF em JS:
+
+Simples{
+    if (condição){
+        /comando/
+    }
+}
+
+composta{
+    if (condição){
+        /comando/
+    } else if{
+        /comando/
+    }
+}
+
+Encadeamento{
+    if (condição){
+        /comando/
+    } else if (condição){
+        /comando/
+    } else {
+        /comando/
+    }
+}
