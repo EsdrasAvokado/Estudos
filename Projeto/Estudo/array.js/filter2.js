@@ -1,13 +1,13 @@
 const compra = [
-    {nome: 'Abacate', preco: 10, estado: 'otimo'},
-    {nome: 'Tomate', preco: 5, estado: 'Bom'},
-    {nome: 'Cebola', preco: 2.5, estado: 'Ruim'}
+    {nome: 'Abacate', preco: 10, estado: 10},
+    {nome: 'Tomate', preco: 5, estado: 10},
+    {nome: 'Cebola', preco: 2.5, estado: 5}
 
 ]
 
 const Validade = function(compra){
-    if(compra.estado = 'Otimo')
-    return compra.estado
+    if(compra.estado >= 10 )
+    return compra
 }
 
 console.log(compra.filter(Validade))
