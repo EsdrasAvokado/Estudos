@@ -4,7 +4,7 @@ const pizza = [
 ]
 
 const precoMenor = function(pizza){
-    if(pizza.valor <= 50)
+    if(pizza.valor < 68)
     return pizza
 }
 
