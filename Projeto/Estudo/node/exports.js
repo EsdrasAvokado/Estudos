@@ -8,6 +8,8 @@ module.exports.c = 3
 
 exports = null 
 
+exports = undefined
+
 exports = {
     nome: 'Paulo'
 }
