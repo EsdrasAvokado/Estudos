@@ -53,7 +53,7 @@ async function gerarDados() {
   const generoPessoas = Array.from({ length: 150 }, () => generos[Math.floor(Math.random() * generos.length)])
 
 
-  // criando o objeto pessoa para ser imprimido
+  //criando o objeto pessoa para ser imprimido
   const pessoas = nomes.map((nome, i) => ({
     nome,
     sobrenome: sobrenomes[i],
