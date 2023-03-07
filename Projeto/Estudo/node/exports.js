@@ -16,4 +16,4 @@ exports = {
 
 console.log(module.exports)
 
-module.exports = {noite: true}
+module.exports = { noite: true }
