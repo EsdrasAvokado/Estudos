@@ -12,10 +12,10 @@ const axios = require('axios').default
 
 
 //array de dados
-const paises = ['Estados Unidos', 'China', 'Japão', 'Alemanha',
- 'Reino Unido', 'Índia', 'França', 'Itália', 'Brasil', 'Canadá']
+const paises = [ 'Estados Unidos', 'China', 'Japão', 'Alemanha',
+ 'Reino Unido', 'Índia', 'França', 'Itália', 'Brasil', 'Canadá' ]
 
-const generos = ['masculino', 'feminino']
+const generos = [ 'masculino', 'feminino' ]
 
 //função pra calcular o salario conforme a idade aumenta
 function calcularSalario(idade) {
