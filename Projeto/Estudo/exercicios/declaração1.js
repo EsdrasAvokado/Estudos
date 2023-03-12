@@ -1,4 +1,4 @@
-function dadosPessoais (idade = 0, salario = 0, altura = 0,
+function dadosPessoais ( idade = 0, salario = 0, altura = 0,
      genero = '', nome = '...'){
         return{
             idade,
@@ -9,4 +9,4 @@ function dadosPessoais (idade = 0, salario = 0, altura = 0,
         }
      }
 
-console.log(dadosPessoais(18, 4500, 1.65, 'F', 'Rebeca'))
+console.log(dadosPessoais(18, 4500, 1.65, 'F', 'Rebeca' ))
